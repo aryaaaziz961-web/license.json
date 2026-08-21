@@ -1,4 +1,12 @@
 {
-  "playerIds": [9041592801, 9811686897],
-  "groupIds": [533886291]
+  "licenses": [
+    {
+      "licenseId": "AG-001",
+      "playerIds": [9041592801],
+      "placeIds": [123456789],
+      "groupIds": [],
+      "product": "CLUB_KIT",
+      "status": "active"
+    }
+  ]
 }
